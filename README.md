@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, Eu sou Eduardo Kaique</h1>
-<h3 align="center">Desenvolvedor Front-end</h3>
+<h3 align="center">Aspirante Desenvolvedor Full Stack</h3>
 
 - 🔭 Atualmente estou trabalhando no projeto [LugoBots](https://lugobots.ai/)
 

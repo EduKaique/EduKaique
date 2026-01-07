@@ -1,7 +1,7 @@
 <h1 align="center">Olá👋, Eu sou Eduardo Kaique</h1>
-<h3 align="center">Aspirante Desenvolvedor Full Stack</h3>
+<h3 align="center">Desenvolvedor Full Stack</h3>
 
-- 🌱 Atualmente estou aprendendo **React**
+- 🌱 Atualmente estou aprendendo **React** e **Next JS**
 
 - 📫 Como chegar até mim **eduardoalberico18@gmail.com**
 
